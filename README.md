@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbronElias
 - 👀 I’m interested in art,metaverse
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning rendering softwares
 - 💞️ I’m looking to collaborate on art
 - 📫 How to reach me fantasy_anime_art
 
